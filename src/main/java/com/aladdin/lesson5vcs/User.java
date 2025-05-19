@@ -7,6 +7,5 @@ public class User {
     private String userName;
     private String text;
     private Long phoneNumber;
-    private String address;
     private String password;
 }
